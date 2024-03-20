@@ -3,9 +3,19 @@ export const machineCodingQuestionsData = [
     id: 1,
     name: "Countdown Timer",
     description: "Question about timer",
-    image: "",
+    image: "Clock-Hourglass.jpg",
     date: "",
     githubLink: "",
+    componentName: "Timer",
+  },
+  {
+    id: 1,
+    name: "Pagination",
+    description: "Question about Pagination",
+    image: "Clock-Hourglass.jpg",
+    date: "",
+    githubLink: "",
+    componentName: "Pagination",
   },
 ];
 
