@@ -18,10 +18,17 @@
 4. Setup react router dom
 5. Created basic structure
 6. Created context for sidebar toggle
+7. Start working on MainContainer
+   - Create dummy cards for questions
+8. Create coding questions container
+   - Setup routing to navigate to different questions
 
 ## Future
 
-1. Start working on MainContainer
-   - Create dummy cards for questions
-2. Create coding questions container
-   - Setup routing to navigate to different questions
+1. Start machine coding questions
+
+## To Add Machine Coding Questions in this project
+
+1. Add obejct in machineCodingQuestionsData array
+2. Add image in asset folder
+3. Create component for the project and add the same in object

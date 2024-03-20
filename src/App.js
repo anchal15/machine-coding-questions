@@ -3,6 +3,7 @@ import Body from "./components/Body";
 import { RouterProvider, createBrowserRouter } from "react-router-dom";
 import MainContainer from "./components/MainContainer";
 import SidebarManager from "./utils/context/SidebarContext";
+import QuestionPage from "./components/QuestionPage";
 
 function App() {
   const appRouter = new createBrowserRouter([
@@ -13,6 +14,10 @@ function App() {
         {
           path: "/",
           element: <MainContainer />,
+        },
+        {
+          path: "/question",
+          element: <QuestionPage />,
         },
       ],
     },
