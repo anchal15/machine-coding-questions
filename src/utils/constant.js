@@ -9,13 +9,22 @@ export const machineCodingQuestionsData = [
     componentName: "Timer",
   },
   {
-    id: 1,
+    id: 2,
     name: "Pagination",
     description: "Question about Pagination",
     image: "Clock-Hourglass.jpg",
     date: "",
     githubLink: "",
     componentName: "Pagination",
+  },
+  {
+    id: 3,
+    name: "Grid Lights",
+    description: "Build a grid of lights where the lights deactivate in the reverse order they were activated",
+    image: "Grid-lights.jpg",
+    date: "",
+    githubLink: "",
+    componentName: "GridLights",
   },
 ];
 

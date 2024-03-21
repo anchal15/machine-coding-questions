@@ -26,9 +26,16 @@
 ## Future
 
 1. Start machine coding questions
+2. Get the questions data from firebase
+3. Create one page to add the new questions in firebase db
+4. Setup login
 
-## To Add Machine Coding Questions in this project
+## Steps to add Machine Coding Questions in this project
 
 1. Add obejct in machineCodingQuestionsData array
 2. Add image in asset folder
 3. Create component for the project and add the same in object
+
+## Machine coding questions
+
+1. Grid lights
